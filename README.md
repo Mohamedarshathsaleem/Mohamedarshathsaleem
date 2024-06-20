@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate Software Engineering Student from Universiti Teknologi Malaysia
 ----------------------------------------------------------------------------
 
-\- 🌱 I’m currently learning \*\*BACHELOR DEGREE OF COMPUTER SCIENCE(SOFTWARE ENGINEERING)\*\*
+\- 🌱 I’m currently learning **\*\*BACHELOR DEGREE OF COMPUTER SCIENCE(SOFTWARE ENGINEERING)\*\***
 
 * 🌍  I'm based in Johor, Malaysia
 * 🖥️  See my portfolio at [MyPortfolio](https://mohamedarshathsaleem.github.io/)
