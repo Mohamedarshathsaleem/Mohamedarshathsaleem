@@ -7,7 +7,7 @@ A passionate Software Engineering Student from Universiti Teknologi Malaysia
 \- 🌱 I’m currently learning \*\*BACHELOR DEGREE OF COMPUTER SCIENCE(SOFTWARE ENGINEERING)\*\*
 
 * 🌍  I'm based in Johor, Malaysia
-* 🖥️  See my portfolio at [MyPortfolio](http://mohamedarshathsaleem.github.io/)
+* 🖥️  See my portfolio at [MyPortfolio](https://mohamedarshathsaleem.github.io/)
 * ✉️  You can contact me at [mohamedarshathsaleem@gmail.com](mailto:mohamedarshathsaleem@gmail.com)
 
 ### Skills
