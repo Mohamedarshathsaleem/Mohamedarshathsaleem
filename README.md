@@ -8,6 +8,7 @@ A passionate Software Engineering Student from Universiti Teknologi Malaysia
 
 * 🌍  I'm based in Johor, Malaysia
 * ✉️  You can contact me at [mohamedarshathsaleem@gmail.com](mailto:mohamedarshathsaleem@gmail.com)
+* 💼  You can also view my portfolio at https://mohamedarshathsaleem.github.io/
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
